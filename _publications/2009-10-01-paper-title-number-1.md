@@ -1,15 +1,13 @@
-<!---
 ---
-title: "Paper Title Number 1"
+#title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#date: 2009-10-01
+#venue: 'Journal 1'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
---->
 <ol>
 <li><p>Shunsuke Tanizaki<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware, CSS 2023 Japan, 2023 October 30 <a href="https://www.iwsec.org/css/2023/"><span style="color:red">external link<span></a></p></li>  
 <li><p><strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shunsuke Tanizaki, Tetsui Kou, Michel van Eeten, Katsunari Yoshioka, Tsutomu Matsumoto, An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware, CSET 2023 USA, 2023 August 7  <a href="https://github.com/yinminnpapa/website_data/raw/master/papers/paper_18.pdf"><span style="color:red">pdf<span></a></p></li>
