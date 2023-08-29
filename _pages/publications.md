@@ -15,7 +15,7 @@ redirect_from:
 
 * Yamato Kawaguchi, Kazuki Takada, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, "Towards observation of online fraud exploiting multiple SNS", ICSS Japan, 2023 March. [Conference Page](https://ken.ieice.org/ken/paper/20230314nCsq/eng/)
 
-* Shunki Soeda, Takahiro Inoue, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Assessment Method for Persistent Malware Infection on IoT Devices", ICSS Japan, 2023 March **{Best Paper Award}** [Conference Page](https://ken.ieice.org/ken/paper/20230314GCqw/eng/)
+* Shunki Soeda, Takahiro Inoue, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Assessment Method for Persistent Malware Infection on IoT Devices", ICSS Japan, 2023 March. **{Best Paper Award}**. [Conference Page](https://ken.ieice.org/ken/paper/20230314GCqw/eng/)
 
 ## 2022
 
