@@ -45,3 +45,12 @@ redirect_from:
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "IoTPOT", University of California, Santa Barbara, USA. (2015/09/23)
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "IoTPOT",  Northeastern University in Boston, USA. (2015/09/21)
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109236000-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109236000-1');
+</script>
