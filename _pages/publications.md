@@ -9,17 +9,17 @@ redirect_from:
 ---
 ## 2023
 
-* Shunsuke Tanizaki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>Katsunari Yoshioka, Tsutomu Matsumoto, "Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware", CSS 2023 Japan, 2023 October 30.[Conference Page](https://www.iwsec.org/css/2023/)
+* Shunsuke Tanizaki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware", CSS 2023 Japan, 2023 October 30. [Conference Page](https://www.iwsec.org/css/2023/)
 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shunsuke Tanizaki, Tetsui Kou, Michel van Eeten, Katsunari Yoshioka, Tsutomu Matsumoto, "An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware",CSET 2023 USA, 2023 August 7.[Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_18.pdf)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shunsuke Tanizaki, Tetsui Kou, Michel van Eeten, Katsunari Yoshioka, Tsutomu Matsumoto, "An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware",CSET 2023 USA, 2023 August 7. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_18.pdf)
 
-* Yamato Kawaguchi, Kazuki Takada,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, "Towards observation of online fraud exploiting multiple SNS", ICSS Japan, 2023 March.[Conference Page](https://ken.ieice.org/ken/paper/20230314nCsq/eng/)
+* Yamato Kawaguchi, Kazuki Takada,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, "Towards observation of online fraud exploiting multiple SNS", ICSS Japan, 2023 March. [Conference Page](https://ken.ieice.org/ken/paper/20230314nCsq/eng/)
 
 * Shunki Soeda, Takahiro Inoue, Rui Tanabe,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Assessment Method for Persistent Malware Infection on IoT Devices", ICSS Japan, 2023 March **{Best Paper Award}** [Conference Page](https://ken.ieice.org/ken/paper/20230314GCqw/eng/)
 
 ## 2022
 
-* Hiroshi Mori, Hiroshi Kumagai,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Takata, Ryoya Furukawa, Yuji Sakurai, Masaki Kamizono, "Cryptocurrency Analysis System for Investigating Cyber Crime Economy", ICSS Japan, 2022.[Conference Page](https://ken.ieice.org/ken/paper/20220720oCkV/)
+* Hiroshi Mori, Hiroshi Kumagai,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Takata, Ryoya Furukawa, Yuji Sakurai, Masaki Kamizono, "Cryptocurrency Analysis System for Investigating Cyber Crime Economy", ICSS Japan, 2022. [Conference Page](https://ken.ieice.org/ken/paper/20220720oCkV/)
 
 
 ## 2021
@@ -35,30 +35,30 @@ redirect_from:
 
 ## 2016 
 
-* Rui Tanabe, Shogo Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Malware Expansion Interception Method Focused on Remote Takeover against Malware-infected Hosts, Journal of Information Processing, Japan, Vol.57-No.9, 2016 September.**{Best Paper Award}**.[Journal Paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=174669&amp;item_no=1)
+* Rui Tanabe, Shogo Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Malware Expansion Interception Method Focused on Remote Takeover against Malware-infected Hosts, Journal of Information Processing, Japan, Vol.57-No.9, 2016 September.**{Best Paper Award}**. [Journal Paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=174669&amp;item_no=1)
 
-* Akira Yokoyama, Kou Ishii, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Daisuke Inoue, Michael Brengel, Michael Backes, Christian Rossow, "Sandprint: Fingerprinting Malware Sandboxes to Provide Intelligence for Sandbox Evasion", RAID 2016, France.[Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_10.pdf)">
+* Akira Yokoyama, Kou Ishii, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Daisuke Inoue, Michael Brengel, Michael Backes, Christian Rossow, "Sandprint: Fingerprinting Malware Sandboxes to Provide Intelligence for Sandbox Evasion", RAID 2016, France. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_10.pdf)"
 
-* Shogo Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Ezawa, Sou Nakayama, Ying Tie, Katsunari Yoshioka, Tsutomu Matsumoto, &ldquo;Improving IoTPOT for Observing Various Attacks Target Embedded Devices&rdquo;, Information and Communication System Security (ICSS) Japan, 2016 March.[Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_9.pdf)
+* Shogo Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Ezawa, Sou Nakayama, Ying Tie, Katsunari Yoshioka, Tsutomu Matsumoto, &ldquo;Improving IoTPOT for Observing Various Attacks Target Embedded Devices&rdquo;, Information and Communication System Security (ICSS) Japan, 2016 March. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_9.pdf)
 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shogo Suzuki, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Christian Rossow “IoTPOT: A Novel Honeypot for Revealing Current IoT Threats”, Journal of Information Processing Japan, Vol.24-No.3, 2016 march.[Journal Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_8.pdf)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shogo Suzuki, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Christian Rossow “IoTPOT: A Novel Honeypot for Revealing Current IoT Threats”, Journal of Information Processing Japan, Vol.24-No.3, 2016 march. [Journal Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_8.pdf)
 
 
 ## 2015
 
-* Katsunari Yoshioka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shogo Suzuki, Naoki Watanabe, Sou Nakayama,Toshiya Shimura, Haoyuan Xu, Junji Shikata, Tsutomu Matsumoto, Koji Nakao, Takeo Hariu, Makoto Iwamura, Takeshi Yagi, Mitsuaki Akiyama, Masato Terada, Shigeyoshi Shima,Masafumi Watanabe, Takahiro Kakumaru, Masaru Kawakita, Masahiro Yamada, Daisuke Inoue, “Collection and Analysis of Cyber Security Data by Active and Passive Monitoring”,CSS 2015 Japan, 2015 October.[paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_7.pdf)
+* Katsunari Yoshioka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shogo Suzuki, Naoki Watanabe, Sou Nakayama,Toshiya Shimura, Haoyuan Xu, Junji Shikata, Tsutomu Matsumoto, Koji Nakao, Takeo Hariu, Makoto Iwamura, Takeshi Yagi, Mitsuaki Akiyama, Masato Terada, Shigeyoshi Shima,Masafumi Watanabe, Takahiro Kakumaru, Masaru Kawakita, Masahiro Yamada, Daisuke Inoue, “Collection and Analysis of Cyber Security Data by Active and Passive Monitoring”,CSS 2015 Japan, 2015 October. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_7.pdf)
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shogo Suzuki, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Christian Rossow, “IoTPOT: Analysing the Rise of IoT Compromises”, 9th USENIX Workshop on Offensive Technologies (WOOT’ 2015), US, 2015 August. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_6.pdf)
 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, “Detecting Malicious Domains and Authoritative Name Servers Based on Their Distinct Mappings to IP Addresses”, Journal of Information Processing, Japan, Vol.23, No.5, pages 623-632, 2015 March.[Journal Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_5.pdf)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, “Detecting Malicious Domains and Authoritative Name Servers Based on Their Distinct Mappings to IP Addresses”, Journal of Information Processing, Japan, Vol.23, No.5, pages 623-632, 2015 March. [Journal Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_5.pdf)
 
 ## 2013 
-* Daisuke Makita, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, “A Method for Detecting Malware Infected Hosts with Similarity of Name Resolution Behavior”, Symposium on Cryptography and Information Security (SCIS), Japan, 2013 January.[Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_4.pdf)
+* Daisuke Makita, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, “A Method for Detecting Malware Infected Hosts with Similarity of Name Resolution Behavior”, Symposium on Cryptography and Information Security (SCIS), Japan, 2013 January. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_4.pdf)
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Daisuke Makita, Katsunari Yoshioka, Tsutomu Matsumoto, “Finding Malicious Authoritative DNS server”, Information and Communication System Security (ICSS), Yokohama, Japan, 2013 March.**{Bet Technical Report Award of the Year}**.[Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_3.pdf)
 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Search Engine Based Investigation on Misconfiguration of Zone Transfer”, Asia Joint Conference on Information Security (Asia-JCIS), Seoul, Korea, 2013 July.**{Best Paper Award}**.[Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_2.pdf)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Search Engine Based Investigation on Misconfiguration of Zone Transfer”, Asia Joint Conference on Information Security (Asia-JCIS), Seoul, Korea, 2013 July.**{Best Paper Award}**. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_2.pdf)
 
 ## 2012
 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, “ Search Engine Based Investigation on Misconfiguration of Zone Transfer”, International Workshop on Security (IWSEC-2012), Fukuoka, Japan, 2012 November,[POSTER](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_1.pdf)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, “ Search Engine Based Investigation on Misconfiguration of Zone Transfer”, International Workshop on Security (IWSEC-2012), Fukuoka, Japan, 2012 November. [POSTER](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_1.pdf)
