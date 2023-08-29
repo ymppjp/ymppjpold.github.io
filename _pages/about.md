@@ -26,7 +26,7 @@ Research Interests
 * Malware Analysis
 * Web security
 * IoT Security 
-* AI Security 
+* AI Security
 
 
 Love
