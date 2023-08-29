@@ -37,7 +37,7 @@ redirect_from:
 
 * Rui Tanabe, Shogo Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Malware Expansion Interception Method Focused on Remote Takeover against Malware-infected Hosts", Journal of Information Processing, Japan, Vol.57-No.9, 2016 September.**{Best Paper Award}**. [Journal Paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=174669&amp;item_no=1)
 
-* Akira Yokoyama, Kou Ishii, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Daisuke Inoue, Michael Brengel, Michael Backes, Christian Rossow, "Sandprint: Fingerprinting Malware Sandboxes to Provide Intelligence for Sandbox Evasion", RAID 2016, France. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_10.pdf)"
+* Akira Yokoyama, Kou Ishii, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Daisuke Inoue, Michael Brengel, Michael Backes, Christian Rossow, "Sandprint: Fingerprinting Malware Sandboxes to Provide Intelligence for Sandbox Evasion", RAID 2016, France. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_10.pdf)
 
 * Shogo Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Ezawa, Sou Nakayama, Ying Tie, Katsunari Yoshioka, Tsutomu Matsumoto, "Improving IoTPOT for Observing Various Attacks Target Embedded Devices", Information and Communication System Security (ICSS) Japan, 2016 March. [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_9.pdf)
 
