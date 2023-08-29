@@ -7,10 +7,17 @@ redirect_from:
   - /publications/
   #- /about.html
 ---
-A [link](http://example.com "Title").
-
-1. Shunsuke Tanizaki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware, CSS 2023 Japan, 2023 October 30. [Conference Link](https://www.iwsec.org/css/2023/)
-<li><p><strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shunsuke Tanizaki, Tetsui Kou, Michel van Eeten, Katsunari Yoshioka, Tsutomu Matsumoto, An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware, CSET 2023 USA, 2023 August 7  <a href="https://github.com/yinminnpapa/website_data/raw/master/papers/paper_18.pdf"><span style="color:red">pdf<span></a></p></li>
+2023
+=====
+* Shunsuke Tanizaki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>Katsunari Yoshioka, Tsutomu Matsumoto
+  "Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware"
+  CSS 2023 Japan, 2023 October 30. 
+  [Conference Link](https://www.iwsec.org/css/2023/)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shunsuke Tanizaki, Tetsui Kou, Michel van Eeten, Katsunari Yoshioka, Tsutomu Matsumoto
+  "An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware"
+  CSET 2023 USA, 2023 August 7  
+  [Paper](https://github.com/yinminnpapa/website_data/raw/master/papers/paper_18.pdf")
+  
 <li><p>Yamato Kawaguchi, Kazuki Takada,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, Towards observation of online fraud exploiting multiple SNS, ICSS Japan, 2023 March <a href="https://ken.ieice.org/ken/paper/20230314nCsq/eng/"><span style="color:red">external link<span></a></p></li>  
 <li><p>Shunki Soeda, Takahiro Inoue, Rui Tanabe,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Assessment Method for Persistent Malware Infection on IoT Devices, ICSS Japan, 2023 March {Best Paper Award} <a href="https://ken.ieice.org/ken/paper/20230314GCqw/eng/"><span style="color:red">external link<span></a></p></li>  
 <li><p>Hiroshi Mori, Hiroshi Kumagai,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Takata, Ryoya Furukawa, Yuji Sakurai, Masaki Kamizono, Cryptocurrency Analysis System for Investigating Cyber Crime Economy, ICSS Japan, 2022 <a href="https://ken.ieice.org/ken/paper/20220720oCkV/"><span style="color:red">external link<span></a></p></li>  
