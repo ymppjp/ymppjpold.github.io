@@ -7,7 +7,7 @@ redirect_from:
   - /publications/
   #- /about.html
 ---
->>2023
+## 2023
 ===
 * Shunsuke Tanizaki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>Katsunari Yoshioka, Tsutomu Matsumoto, "Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware", CSS 2023 Japan, 2023 October 30.[Conference Page](https://www.iwsec.org/css/2023/)
 
