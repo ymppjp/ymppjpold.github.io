@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E in Information Technology, Mandalay Institute of Technology, Myanmar, 2006
+* B.E in Information Technology Engineering, Mandalay Technological University, Myanmar, 2006
 * M.Phil in Infrastructure Management, Yokohama National University, 2013
-* Ph.D(Engineering) in Environment and Information Science,  Yokohama National University, 2016
+* Ph.D(Doctor of Engineering) in Environment and Information Science,  Yokohama National University, 2016
 
 Professional Experiences
 ======
