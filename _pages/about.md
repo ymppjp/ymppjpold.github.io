@@ -12,7 +12,7 @@ I am Yin Minn Pa Pa, a security researcher.
 
 You can find my research publications [here](https://ymppjp.github.io/publications).
 
-Following is brief about me.
+More about me can be found in my CV [here](https://ymppjp.github.io/cv).
 
 Contact
 ======
@@ -29,12 +29,14 @@ Research Interests
 * AI Security
 
 
-Love
+Hobby & Interests
 ======
 
-1. Walking/ Trekking
-2. Cooking
-3. Learning New Things
-4. Animals, Trees, Waterfalls, Flowers, Childrens
+* Walking
+* Trekking/ Hiking
+* Yoga
+* Creative Cooking
+* Learning New Things (especially in Technology, Psychology, Health, Finance)
+* Love Animals, Trees, Waterfalls, Flowers, Childrens
 
 
