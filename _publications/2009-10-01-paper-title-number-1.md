@@ -1,7 +1,7 @@
 ---
 #title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+#permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
 #venue: 'Journal 1'
@@ -9,7 +9,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <ol>
-<li><p>Shunsuke Tanizaki<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware, CSS 2023 Japan, 2023 October 30 <a href="https://www.iwsec.org/css/2023/"><span style="color:red">external link<span></a></p></li>  
+<li><p>Shunsuke Tanizaki,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Evaluating the Behavior Detection Functionality of Antivirus and EDR against Double Extortion Ransomware, CSS 2023 Japan, 2023 October 30 <a href="https://www.iwsec.org/css/2023/"><span style="color:red">external link<span></a></p></li>  
 <li><p><strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shunsuke Tanizaki, Tetsui Kou, Michel van Eeten, Katsunari Yoshioka, Tsutomu Matsumoto, An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware, CSET 2023 USA, 2023 August 7  <a href="https://github.com/yinminnpapa/website_data/raw/master/papers/paper_18.pdf"><span style="color:red">pdf<span></a></p></li>
 <li><p>Yamato Kawaguchi, Kazuki Takada,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, Towards observation of online fraud exploiting multiple SNS, ICSS Japan, 2023 March <a href="https://ken.ieice.org/ken/paper/20230314nCsq/eng/"><span style="color:red">external link<span></a></p></li>  
 <li><p>Shunki Soeda, Takahiro Inoue, Rui Tanabe,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, Assessment Method for Persistent Malware Infection on IoT Devices, ICSS Japan, 2023 March {Best Paper Award} <a href="https://ken.ieice.org/ken/paper/20230314GCqw/eng/"><span style="color:red">external link<span></a></p></li>  
