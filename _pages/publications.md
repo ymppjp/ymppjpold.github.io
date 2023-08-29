@@ -34,7 +34,7 @@ redirect_from:
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Hiroshi Kumagai, Masaki Kamizono, Takahiro Kasama, "Counter-Infiltration: Future-Proof Counter Attacks Against Exploit Kit Infrastructure", Black Hat Asia 2018 Singapore, 2018 March 23. [Whitepaper](https://ymppjp.github.io/files/asia-18-papa-Future-Proof Counter Attacks Against Exploit Kit Infrastructure-WP.pdf), [Video Presentation](https://www.youtube.com/watch?v=jATsubShSv4)
 
 ## 2016 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "A Study on Detecting Cyber Attack Resources by Coordinated Passive and Active Monitoring", **[Ph.D Dissertation]**(https://ymppjp.github.io/files/博士論文-20151028.pdf)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "A Study on Detecting Cyber Attack Resources by Coordinated Passive and Active Monitoring", [Ph.D Dissertation](https://ymppjp.github.io/files/博士論文-20151028.pdf)
 
 
 * Rui Tanabe, Shogo Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Malware Expansion Interception Method Focused on Remote Takeover against Malware-infected Hosts", Journal of Information Processing, Japan, Vol.57-No.9, 2016 September.**{Best Paper Award}**. [Journal Paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=174669&amp;item_no=1)
