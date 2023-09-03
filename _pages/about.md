@@ -33,10 +33,7 @@ Research Interests
 Other Interests
 ======
 
-* Walking
 * Trekking/ Hiking
-* Yoga
-* Creative Cooking
 * Learning New Things (especially in Technology, Psychology, Health, Finance)
 * Love: Animals, Trees, Waterfalls, Flowers, Childrens, Doraemon, Robots
 
