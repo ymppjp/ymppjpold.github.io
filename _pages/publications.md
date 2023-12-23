@@ -17,7 +17,7 @@ redirect_from:
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Shunsuke Tanizaki, Tetsui Kou, Michel van Eeten, Katsunari Yoshioka, Tsutomu Matsumoto, "An Attacker’s Dream? Exploring the Capabilities of ChatGPT for Developing Malware", CSET 2023 USA, 2023 August 7. [paper](https://ymppjp.github.io/files/paper_18.pdf), [PPT](https://cset23.isi.edu/slides/cset2023-slides-papa.pdf)
 
-* Yamato Kawaguchi, Kazuki Takada, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, "Towards observation of online fraud exploiting multiple SNS", ICSS Japan, 2023 March. [Conference Page](https://ken.ieice.org/ken/paper/20230314nCsq/eng/), [paper](https://ymppjp.github.io/files/2023_icss_kawaguchikun)
+* Yamato Kawaguchi, Kazuki Takada, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, "Towards observation of online fraud exploiting multiple SNS", ICSS Japan, 2023 March. [Conference Page](https://ken.ieice.org/ken/paper/20230314nCsq/eng/), [paper](https://ymppjp.github.io/files/2023_icss_kawaguchikun.pdf)
 
 * Shunki Soeda, Takahiro Inoue, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Assessment Method for Persistent Malware Infection on IoT Devices", ICSS Japan, 2023 March. **{Best Paper Award}**. [Conference Page](https://ken.ieice.org/ken/paper/20230314GCqw/eng/), [paper](https://ymppjp.github.io/files/2023_ICSS_Soedakun.pdf)
 
