@@ -35,7 +35,7 @@ Other Interests
 
 * Trekking/ Hiking
 * Learning New Things (especially in Technology, Psychology, Health, Finance)
-* Love: Animals, Trees, Waterfalls, Flowers, Childrens, Doraemon, Robots
+* Love: Animal, Trees, Waterfall, Flowers, Children, Doraemon, Robot
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109236000-1"></script>
