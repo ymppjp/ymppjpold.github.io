@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D(Doctor of Engineering) in Environment and Information Science,  Yokohama National University, 2016
+* Ph.D (Doctor of Engineering) in Environment and Information Science,  Yokohama National University, 2016
 * M.Phil in Infrastructure Management, Yokohama National University, 2013
 * B.E in Information Technology Engineering, Mandalay Technological University, Myanmar, 2006
 
@@ -21,7 +21,7 @@ Professional Experiences
 * Specially Appointed Associate Professor, Yokohama National University, Japan (2022 ~ Current)
 * Senior Researcher, Deloitte, Japan (2019 ~ 2022)
 * Researcher, PwC, Japan (2016 ~ 2019)
-* Research Assistant(Part-time), Yokohama National University, Japan (2013 ~ 2016)
+* Research Assistant (Part-time), Yokohama National University, Japan (2013 ~ 2016)
 * IT engineer, Myanmar (2006 ~ 2011)
 
 
