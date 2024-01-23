@@ -27,7 +27,7 @@ Professional Experiences
 
 Community Services
 ======
-
+* Adviser, Scholars' Research Presentation, 49th Iwatani International Scholarship “4th Regular Meeting”, Naoji Iwatani Memorial Foundation,  (2023/12/07)
 * Reviewer, Institute of Electronics, Information and Communication Engineers, Japan (2023)
 * Security Adviser, National Projects in Myanmar (2021 ~ current)
 * Committee, International Conference on Advanced Information Technologies (ICAIT),Myanmar (2018 ~ current)
