@@ -8,8 +8,8 @@ redirect_from:
   #- /about.html
 ---
 ## 2023
-* Moderator: Koji Nakao, Panelists: Yufei Han, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Naoto Yanai, "AI and security", 8th Franco-Japanese Cybersecurity Workshop 2023, Bordeaux, France (2023/11/8). [External Link](https://fj-cybersec2023.sciencesconf.org/data/pages/Program_FJCW_2023_11_28.pdf)(Panel Discussion)
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "The Dark Side of AI in Cybersecurity", 8th Franco-Japanese Cybersecurity Workshop 2023, Bordeaux, France (2023/11/8). [External Link](https://fj-cybersec2023.sciencesconf.org/data/pages/Program_FJCW_2023_11_28.pdf) (Invited Talk)
+* Moderator: Koji Nakao, Panelists: Yufei Han, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Naoto Yanai, "AI and security", 8th Franco-Japanese Cybersecurity Workshop 2023, Bordeaux, France (2023/12/1). [External Link](https://fj-cybersec2023.sciencesconf.org/data/pages/Program_FJCW_2023_11_28.pdf)(Panel Discussion)
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "The Dark Side of AI in Cybersecurity", 8th Franco-Japanese Cybersecurity Workshop 2023, Bordeaux, France (2023/12/1). [External Link](https://fj-cybersec2023.sciencesconf.org/data/pages/Program_FJCW_2023_11_28.pdf) (Invited Talk)
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "攻撃者の夢？ChatGPTのマルウェア開発能力を探る", Communication Systems Conference, 2023, Shizuoka, Japan (2023/11/8). [External Link](https://ken.ieice.org/ken/paper/20231109LCYx/) (Requested Talk)
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "攻撃者の夢？ChatGPTのマルウェア開発能力を探る", IoT Security Forum 2023 Japan (2023/09/7). [External Link](https://academy.impress.co.jp/event/iot-security202309/timetable02.html)(Invited Talk)
 
