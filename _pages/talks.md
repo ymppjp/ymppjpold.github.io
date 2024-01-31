@@ -1,13 +1,21 @@
 ---
 permalink: /talks
-title: "Technical Talks"
+title: "Technical Talks and Panel Discussions"
 #excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /talks/
   #- /about.html
 ---
+## 2024
+
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, The Abuse of AI in Cybersecurity, 7th Workshop on Intelligent IoT for Empowering People's Lifestyle and Well-being, Kyoto Japan. (2024/02/27 ~ 28)
+
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, The Dark Side of AI in Cybersecurity", Presentation to Dean of Engineering, University of Indonesia and Members, JICA Cybersecurity Human Resources Development Project in Indonesia, Yokohama National University Japan. (2024/01/19)
+
+
 ## 2023
+
 * Moderator: Koji Nakao, Panelists: Yufei Han, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Naoto Yanai, "AI and security", 8th Franco-Japanese Cybersecurity Workshop 2023, Bordeaux, France (2023/12/1). [External Link](https://fj-cybersec2023.sciencesconf.org/data/pages/Program_FJCW_2023_11_28.pdf)(Panel Discussion)
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "The Dark Side of AI in Cybersecurity", 8th Franco-Japanese Cybersecurity Workshop 2023, Bordeaux, France (2023/12/1). [External Link](https://fj-cybersec2023.sciencesconf.org/data/pages/Program_FJCW_2023_11_28.pdf) (Invited Talk)
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, "攻撃者の夢？ChatGPTのマルウェア開発能力を探る", Communication Systems Conference, 2023, Shizuoka, Japan (2023/11/8). [External Link](https://ken.ieice.org/ken/paper/20231109LCYx/) (Requested Talk)
