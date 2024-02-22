@@ -11,7 +11,7 @@ redirect_from:
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, The Abuse of AI in Cybersecurity, 7th Workshop on Intelligent IoT for Empowering People's Lifestyle and Well-being, Kyoto Japan. (2024/02/27 ~ 28).[External Link](https://web.sfc.keio.ac.jp/~t19486mt/a3foresight/ws7/program.html)
 
-* Moderator: Morica Sakuma (Incri Co., Ltd.), Panelists: Kana Shinoda (President and CEO of BLUE Co., Ltd.), <strong><strong><em>Yin Minn Pa Pa</em></strong></strong> (Associate Professor, Institute for Advanced Science, Yokohama National University), Nakajima Asuka (Elastic Security Research Engineer), Moriai Shiho (Director of NICT Research Institute), Sayuri Abe (NICT Research Technician), Misato Matsuda (NICT Researcher), Cyber Security Women's Success and Career Paths, Nihonbashi Tower, Tokyo, Japan.[External Link](https://www2.nict.go.jp/csri/nict_cyber2024/)
+* Moderator: Morica Sakuma (Incri Co., Ltd.), Panelists: Kana Shinoda (President and CEO of BLUE Co., Ltd.), <strong><strong><em>Yin Minn Pa Pa</em></strong></strong> (Associate Professor, Institute for Advanced Science, Yokohama National University), Nakajima Asuka (Elastic Security Research Engineer), Moriai Shiho (Director of NICT Research Institute), Sayuri Abe (NICT Research Technician), Misato Matsuda (NICT Researcher), Cyber Security Women's Success and Career Paths, Nihonbashi Tower, Tokyo, Japan. (2024/02/16)[External Link](https://www2.nict.go.jp/csri/nict_cyber2024/)
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, The Dark Side of AI in Cybersecurity", Presentation to Dean of Engineering, University of Indonesia and Members, JICA Cybersecurity Human Resources Development Project in Indonesia, Yokohama National University Japan. (2024/01/19)
 
