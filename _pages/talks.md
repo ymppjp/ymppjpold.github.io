@@ -13,9 +13,6 @@ redirect_from:
 
 * Moderator: Morica Sakuma (Incri Co., Ltd.), Panelists: Kana Shinoda (President and CEO of BLUE Co., Ltd.), <strong><strong><em>Yin Minn Pa Pa</em></strong></strong> (Associate Professor, Institute for Advanced Science, Yokohama National University), Nakajima Asuka (Elastic Security Research Engineer), Moriai Shiho (Director of NICT Research Institute), Sayuri Abe (NICT Research Technician), Misato Matsuda (NICT Researcher), Cyber Security Women's Success and Career Paths, Nihonbashi Tower, Tokyo, Japan. (2024/02/16)[External Link](https://www2.nict.go.jp/csri/nict_cyber2024/)
 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, The Dark Side of AI in Cybersecurity", Presentation to Dean of Engineering, University of Indonesia and Members, JICA Cybersecurity Human Resources Development Project in Indonesia, Yokohama National University Japan. (2024/01/19)
-
-
 ## 2023
 
 * Moderator: Koji Nakao, Panelists: Yufei Han, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Naoto Yanai, "AI and security", 8th Franco-Japanese Cybersecurity Workshop 2023, Bordeaux, France (2023/12/1). [External Link](https://fj-cybersec2023.sciencesconf.org/data/pages/Program_FJCW_2023_11_28.pdf)(Panel Discussion)
