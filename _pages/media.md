@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Media"
 permalink: /media/
 author_profile: true
@@ -8,7 +7,6 @@ redirect_from:
 ---
 {% include base_path %}
 
----
 ## 2024
 * Battling algae, typhoons, and cybercrime, Asia Research News [URL](https://www.asiaresearchnews.com/content/battling-algae-typhoons-and-cybercrime)
 
