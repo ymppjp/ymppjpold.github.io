@@ -8,12 +8,12 @@ redirect_from:
   #- /about.html
 ---
 ## 2024
-* Zhewei Huang, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Impact of ChatGPT Assisted Polymorphic Malware on Antivirus Detection", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/202403220cCO/), [paper](https://ymppjp.github.io/files/%E9%BB%84_ICSS_2024.pdf)
+* Zhewei Huang, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Impact of ChatGPT Assisted Polymorphic Malware on Antivirus Detection", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/202403220cCO/)<!--, [paper](https://ymppjp.github.io/files/%E9%BB%84_ICSS_2024.pdf) -->
 
-* Aiman Syazwan Bin Abdul Razak, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Unveiling the Shadows: Analyzing Cryptocurrency Address Management and Fund Movement of Darknet Markets", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/202403216cCx/), [paper](https://ymppjp.github.io/files/ICSS2024_aiman.pdf)
+* Aiman Syazwan Bin Abdul Razak, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Unveiling the Shadows: Analyzing Cryptocurrency Address Management and Fund Movement of Darknet Markets", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/202403216cCx/)<!--, [paper](https://ymppjp.github.io/files/ICSS2024_aiman.pdf)-->
 
 
-* Yuji Sekine, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Analyzing Attackers and Victims Actions via LockBit3.0 Website Data Dynamics", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/20240321acCQ/), [paper](https://ymppjp.github.io/files/ICSS2024_Sekine.pdf)
+* Yuji Sekine, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Analyzing Attackers and Victims Actions via LockBit3.0 Website Data Dynamics", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/20240321acCQ/)<!--, [paper](https://ymppjp.github.io/files/ICSS2024_Sekine.pdf)-->
 
 
 * Yamato Kawaguchi, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "ChatGPT Assisted Information Collection System for Cybercrime on Discord", SCIS 2024 Japan, 2024 January 23~26.[Conference Page](https://www.iwsec.org/scis/2024/program.html),[paper](https://ymppjp.github.io/files/2024_SCIS_kawaguchikun.pdf)
