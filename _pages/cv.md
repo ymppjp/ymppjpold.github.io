@@ -28,8 +28,8 @@ Professional Experiences
 Community Services
 ======
 * Committee,The Asia Joint Conference on Information Security (AsiaJCIS) 2024 [link](https://asiajcis2024.web2.ncku.edu.tw/p/412-1192-26007.php?Lang=en)
-* Committee,BWS（Blockchain Security Workshop, IWSEC 2024 [link] (https://www.iwsec.org/bws/)
-* Committee, IEEE Conference on Dependable and Secure Computing 2024 [link] (https://attend.ieee.org/dsc-2024/organization-and-program-committee/)
+* Committee,BWS（Blockchain Security Workshop, IWSEC 2024 [link](https://www.iwsec.org/bws/)
+* Committee, IEEE Conference on Dependable and Secure Computing 2024 [link](https://attend.ieee.org/dsc-2024/organization-and-program-committee/)
 * Adviser, Scholars' Research Presentation, 49th Iwatani International Scholarship “4th Regular Meeting”, Naoji Iwatani Memorial Foundation,  (2023/12/07)
 * Reviewer, Institute of Electronics, Information and Communication Engineers, Japan (2023)
 * Committee, International Conference on Advanced Information Technologies (ICAIT),Myanmar (2018 ~ current)
