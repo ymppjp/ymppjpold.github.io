@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yin Minn Pa Pa (インミンパパ)"
+title                    : "Yin Minn Pa Pa"
 title_separator          : "-"
-name                     : &name "Yin Minn Pa Pa　(インミンパパ)"
+name                     : &name "Home"
 description              : &description "Personal Page"
 url                      : https://yinminnpapa.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yin Minn Pa Pa (インミンパパ)"
-  name1            : "インミンパパ"
+  name             : "Home"
   avatar           : "me.png"
   bio              : "Researcher"
   location         : #"Japan"
