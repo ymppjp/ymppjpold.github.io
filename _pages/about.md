@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 I am Yin Minn Pa Pa, a security researcher.
+I don't have last name. "Yin Minn Pa Pa" is my first name.
+I am also known as インミンパパ or somethimes インミン　パパ in Japan.：）
 
 You can find my research publications [here](https://ymppjp.github.io/publications).
 
