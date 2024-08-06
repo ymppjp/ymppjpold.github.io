@@ -34,6 +34,7 @@ Other Interests
 * Trekking/ Hiking
 * Learning New Things (especially in Technology, Psychology, Health, Finance)
 
+<!--
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109236000-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -42,3 +43,4 @@ Other Interests
 
   gtag('config', 'UA-109236000-1');
 </script>
+-->
