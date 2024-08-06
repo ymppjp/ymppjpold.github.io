@@ -19,17 +19,19 @@ Professional Experiences
 ======
 
 * Specially Appointed Associate Professor, Yokohama National University, Japan (2022 ~ Current)
-* Senior Researcher, Deloitte, Japan (2019 ~ 2022)
-* Researcher, PwC, Japan (2016 ~ 2019)
+* Senior Researcher, Consulting Firm, Japan (2019 ~ 2022)
+* Researcher, Consulting Firm, Japan (2016 ~ 2019)
 * Research Assistant (Part-time), Yokohama National University, Japan (2013 ~ 2016)
 * IT engineer, Myanmar (2006 ~ 2011)
 
 
 Community Services
 ======
+* Committee,The Asia Joint Conference on Information Security (AsiaJCIS) 2024 [link] https://asiajcis2024.web2.ncku.edu.tw/p/412-1192-26007.php?Lang=en
+* Committee,BWS（Blockchain Security Workshop, IWSEC 2024 [link] https://www.iwsec.org/bws/
+* Committee, IEEE Conference on Dependable and Secure Computing 2024 [link] (https://attend.ieee.org/dsc-2024/organization-and-program-committee/)
 * Adviser, Scholars' Research Presentation, 49th Iwatani International Scholarship “4th Regular Meeting”, Naoji Iwatani Memorial Foundation,  (2023/12/07)
 * Reviewer, Institute of Electronics, Information and Communication Engineers, Japan (2023)
-* Security Adviser, National Projects in Myanmar (2021 ~ current)
 * Committee, International Conference on Advanced Information Technologies (ICAIT),Myanmar (2018 ~ current)
 * Reviewer, Jordanian Journal of Computers and Information Technology, 2018
 * Committee Member, The 13th International Workshop on Security (2016 ~ 2018)

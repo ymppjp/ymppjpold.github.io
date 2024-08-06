@@ -22,11 +22,8 @@ yinminpapa [at] gmail [.] com
 Research Interests
 ======
 
-* Network Security 
-* Malware Analysis
-* Web security
-* IoT Security 
-* AI Security
+* Cybercriminal Studies
+* AI for Security
 * Blockchain Security
 
 
@@ -35,8 +32,6 @@ Other Interests
 
 * Trekking/ Hiking
 * Learning New Things (especially in Technology, Psychology, Health, Finance)
-* Love: Animal, Trees, Waterfall, Flowers, Children, Doraemon, Robot
-
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109236000-1"></script>
 <script>

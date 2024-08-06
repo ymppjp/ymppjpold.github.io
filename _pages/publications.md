@@ -8,6 +8,11 @@ redirect_from:
   #- /about.html
 ---
 ## 2024
+
+* Iori Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Building a Dataset for Accelerating Researches against Fraudulent DeFi Tokens", Security Summer Summit 2024 Hokkaido Japan, 2024 July 22~23. [Conference Page](https://ken.ieice.org/ken/paper/20240722YcEa/), [paper](https://ymppjp.github.io/files/files/SSS_suzuki.pdf) 
+
+* Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Detection of Web3 Phishing Sites Focused on Permission Requests After Wallet Connection", Security Summer Summit 2024 Hokkaido Japan, 2024 July 22~23. [Conference Page](https://ken.ieice.org/ken/paper/20240722PcE2/), [paper](https://ymppjp.github.io/files/files/青砥_SSS.pdf) 
+
 * Zhewei Huang, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Impact of ChatGPT Assisted Polymorphic Malware on Antivirus Detection", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/202403220cCO/), [paper](https://ymppjp.github.io/files/%E9%BB%84_ICSS_2024.pdf) 
 
 * Aiman Syazwan Bin Abdul Razak, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Unveiling the Shadows: Analyzing Cryptocurrency Address Management and Fund Movement of Darknet Markets", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/202403216cCx/), [paper](https://ymppjp.github.io/files/ICSS2024_aiman.pdf)
