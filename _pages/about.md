@@ -9,8 +9,17 @@ redirect_from:
 ---
 
 I am Yin Minn Pa Pa, a security researcher.
-I don't have last name. "Yin Minn Pa Pa" is my first name.
-I am also known as インミンパパ, インミン　パパ or イン ミン パ　パ in Japan.：）
+I don't have last name. "Yin Minn Pa Pa" is my first name and it is my official name. 
+
+However, my name is restrutured and spelled in differnt ways in many different places on Internet as most forms need both first and last name.
+As far as I notice, my name is also spelled as follows in Japan.：） 
+* Yinminpapa
+* Yinminnpapa
+* Yinmin Papa
+* Yinminn Papa
+* インミンパパ
+* インミン　パパ
+* イン ミン パ　パ 
 
 You can find my research publications [here](https://ymppjp.github.io/publications).
 
