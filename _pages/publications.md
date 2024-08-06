@@ -81,6 +81,7 @@ redirect_from:
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, “ Search Engine Based Investigation on Misconfiguration of Zone Transfer”, International Workshop on Security (IWSEC-2012), Fukuoka, Japan, 2012 November. [POSTER](https://ymppjp.github.io/files/paper_1.pdf)
 
+<!--
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109236000-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -89,3 +90,5 @@ redirect_from:
 
   gtag('config', 'UA-109236000-1');
 </script>
+
+-->
