@@ -19,7 +19,7 @@ As far as I notice, my name is also spelled as follows in Japan.：）
 * Yinminn Papa
 * インミンパパ
 * インミン　パパ
-* イン ミン パ　パ 
+* イン　ミン　パ　パ
 
 You can find my research publications [here](https://ymppjp.github.io/publications).
 
