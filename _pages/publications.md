@@ -25,6 +25,22 @@ redirect_from:
 
 * Iori Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Building a Dataset for Accelerating Researches against Fraudulent DeFi Tokens", Security Summer Summit 2024 Hokkaido Japan, 2024 July 22~23. [Conference Page](https://ken.ieice.org/ken/paper/20240722YcEa/), [paper](https://ymppjp.github.io/files/SSS_suzuki.pdf) 
 
+* Zhewei Huang, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Exploring the Impact of LLM Assisted Malware Variants on Anti-Virus Detection, IEEE DSC 2024, Japan. [Conference Page](https://attend.ieee.org/dsc-2024/conference-agenda/#program-day2), [paper](https://ymppjp.github.io/files/dsc_2024_kou.pdf) 
+
+* Yamato Kawaguchi, Kazuki Takada, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Tsutomu Matsumoto, Investigating Black-Market Jobs on Social Networking Service, IEEE DSC 2024, Japan. [Conference Page](https://attend.ieee.org/dsc-2024/conference-agenda/#program-day3), [paper](https://ymppjp.github.io/files/202407_DSC_SNS_Fraud_short.pdf) 
+
+* Katsunari Yoshioka, Shoi Kaneko, Koudai Aoyama, Ryu Kuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Takayuki Sasaki, Rui Tanabe “INSITE: Cybersecurity Framework Integrating Attack Observation with OSINT/HUMINT”, CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/Insite_CSS_2024.pdf) 
+
+* Yamato Kawaguchi, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, “Investigation of Cybercrime-Related Slang on Discord Using Large Language Models”, CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/202408_CSS_Discord_Slang.pdf) 
+
+* Hikaru Matsuzawa、Soda Kubo, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Tanabe Rui、Katsunari Yoshioka, “Investigating the Impact of Evasive Malware Created with LLM on Sandbox Analysis”, CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/202408_CSS_Discord_Slang.pdf) 
+
+* Ruri Otsuka, Kiyokazu Yoshioka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, "Investigation of Device Fingerprinting Focused on Basic Authentication Requests", CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/Otsukasan_CSS_2024.pdf)
+
+* Ryu Kuki1, Sasaki Takayuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Towards the Classification of Newly Exploits Observed by Honeypots", CSS 2024, Japan. **{Best Paper Award}**. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/CSS2024_kukikun.pdf)
+
+* Iori Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Building a Dataset for Accelerating Researches against Fraudulent DeFi Tokens", Security Summer Summit 2024 Hokkaido Japan, 2024 July 22~23. [Conference Page](https://ken.ieice.org/ken/paper/20240722YcEa/), [paper](https://ymppjp.github.io/files/SSS_suzuki.pdf) 
+
 * Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Detection of Web3 Phishing Sites Focused on Permission Requests After Wallet Connection", Security Summer Summit 2024 Hokkaido Japan, 2024 July 22~23. [Conference Page](https://ken.ieice.org/ken/paper/20240722PcE2/), [paper](https://ymppjp.github.io/files/aoto_SSS.pdf) 
 
 * Zhewei Huang, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Impact of ChatGPT Assisted Polymorphic Malware on Antivirus Detection", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/202403220cCO/), [paper](https://ymppjp.github.io/files/%E9%BB%84_ICSS_2024.pdf) 
